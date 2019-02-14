@@ -1,0 +1,6 @@
+framework module Pods_Amazon_Home {
+  umbrella header "Pods-Amazon Home-umbrella.h"
+
+  export *
+  module * { export * }
+}
